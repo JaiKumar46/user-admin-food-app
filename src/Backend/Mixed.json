@@ -1,0 +1,850 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Big Mac",
+      "img": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-Big-Mac-1:1-4-product-tile-desktop",
+      "price": " 145",
+      "desc": "A tall burger which makes you wide open your mouth and enjoy the delicacy with awesome taste.",
+      "category": "Veg"
+    },
+    {
+      "id": 2,
+      "name": "Quarter Pounder with Cheese",
+      "img": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-Quarter-Pounder-with-Cheese-1:1-4-product-tile-desktop",
+      "price": " 88",
+      "desc": "A small size burger for which you can have it as a breakfast with awesome cheese fillings and vegetables",
+      "category": "Veg"
+    },
+    {
+      "id": 3,
+      "name": "Double Quarter Pounder with Cheese",
+      "img": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-Double-Quarter-Pounder-with-Cheese-1:1-4-product-tile-desktop",
+      "price": " 108",
+      "desc": "A medium size burger for which you can have it as a brunch with awesome cheese fillings and vegetables",
+      "category": "Veg"
+    },
+    {
+      "id": 4,
+      "name": "Quarter Pounder with Cheese Deluxe",
+      "img": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-qpc-deluxe-burger:1-4-product-tile-desktop",
+      "price": " 117",
+      "desc": "A large size royal  burger for which you can have with awesome cheese fillings and vegetables and get the superb experience of burger.",
+      "category": "Veg"
+    },
+    {
+      "id": 5,
+      "name": "Mc Double",
+      "img": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-McDouble-1:1-4-product-tile-desktop",
+      "price": " 125",
+      "desc": "Double burger from Mc Donalds whic is most recommended and highly demanded by the customers with awesome cheese fillings and vegetables.",
+      "category": "Veg"
+    },
+    {
+      "id": 6,
+      "name": "Quarter Pounder with Cheese Bacon",
+      "img": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-qpc-bacon-burger:1-4-product-tile-desktop",
+      "price": " 99",
+      "desc": "A small size burger for which you can have it as a breakfast with awesome cheese fillings and vegetables and an extra taste of bacon.",
+      "category": "Veg"
+    },
+    {
+      "id": 7,
+      "name": "Cheese Burger",
+      "img": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-Cheeseburger-1:1-4-product-tile-desktop",
+      "price": " 67",
+      "desc": "A small size burger with awesome cheese fillings and vegetables and experience a great taste.",
+      "category": "Veg"
+    },
+    {
+      "id": 8,
+      "name": "Double Cheese Burger",
+      "img": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-Double-Cheeseburger-1:1-4-product-tile-desktop",
+      "price": " 89",
+      "desc": "A double cheese burgerwhic is  awesome with cheese fillings and vegetables and fills your tummy.",
+      "category": "Veg"
+    },
+    {
+      "id": 9,
+      "name": "Hamburger",
+      "img": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-Hamburger:1-4-product-tile-desktop",
+      "price": " 100",
+      "desc": "A small burger with awesome cheese fillings and vegetables.",
+      "category": "Veg"
+    },
+    {
+      "id": 10,
+      "name": "Spicy Deluxe Crispy Chicken Sandwich",
+      "img": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-spicy-deluxe-crispy-chicken-sandwich:1-4-product-tile-desktop",
+      "price": " 125",
+      "desc": "A spicy and crispy sandwich burger with awesome cheese fillings and crunchy chicken boneless.",
+      "category": "Non-Veg"
+    },
+    {
+      "id": 11,
+      "name": "Crispy Chicken Sandwich",
+      "img": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-crispy-chicken-sandwich:1-4-product-tile-desktop",
+      "price": " 128",
+      "desc": "A crispy chicken sandwich burger with awesome cheese fillings and vegetables with crunchy chicken.",
+      "category": "Non-Veg"
+    },
+    {
+      "id": 12,
+      "name": "Spicy Crispy Chicken Sandwich",
+      "img": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-spicy-crispy-chicken-sandwich:1-4-product-tile-desktop",
+      "price": " 126",
+      "desc": "A spicy and crispy sadnwich burger with cheese fillings and crunchy chicken.",
+      "category": "Non-Veg"
+    },
+    {
+      "id": 13,
+      "name": "Deluxe Spicy Crispy Chicken Sandwich",
+      "img": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-deluxe-crispy-chicken-sandwich:1-4-product-tile-desktop",
+      "price": " 119",
+      "desc": "A king size burger awesome cheese fillings and double crunchy layers of chicken.",
+      "category": "Non-Veg"
+    },
+    {
+      "id": 14,
+      "name": "Chicken Mc Nuggets",
+      "img": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-Chicken-McNuggets-4pc-1:1-4-product-tile-desktop",
+      "price": " 78",
+      "desc": "Enjoy crunchy and delicious Chicken Nuggets from Mc Donalds.",
+      "category": "Non-Veg"
+    },
+    {
+      "id": 15,
+      "name": "Mc Chicken",
+      "img": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-McChicken-1:1-4-product-tile-desktop",
+      "price": " 95",
+      "desc": "A basic chicken burger with awesome cheese fillings and delicious chicken.",
+      "category": "Non-Veg"
+    },
+    {
+      "id": 16,
+      "name": "Filet-O-Fish",
+      "img": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-Filet-O-Fish-1:1-4-product-tile-desktop",
+      "price": " 111",
+      "desc": "Introducing a new and variety kind of burger which contains crunchy tuna fish meat with cheese.",
+      "category": "Non-Veg"
+    },
+    {
+      "id": 17,
+      "name": "Bacon, Egg & Cheese Biscuit",
+      "img": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-Bacon-Egg-Cheese-Biscuit-Regular-Size-Biscuit-1:1-4-product-tile-desktop",
+      "price": " 59",
+      "desc": "A small size burger for which you can have it as a breakfast with awesome cheese fillings,egg omlet, bacon and vegetables",
+      "category": "Non-Veg"
+    },
+    {
+      "id": 18,
+      "name": "Egg Mc Muffin",
+      "img": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-Egg-McMuffin-1:1-4-product-tile-desktop",
+      "price": " 66",
+      "desc": "A small size burger for which you can have it as a breakfast with awesome cheese fillings,muffin, omlet and vegetables",
+      "category": "Non-Veg"
+    },
+    {
+      "id": 19,
+      "name": "Sausage,Egg & Cheese Mc Griddles",
+      "img": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-Sausage-Egg-Cheese-McGriddles-1:1-4-product-tile-desktop",
+      "price": " 86",
+      "desc": "A small size burger for which you can have it as a breakfast with awesome cheese fillings, omlet and vegetables",
+      "category": "Non-Veg"
+    },
+    {
+      "id": 20,
+      "name": "Big Breakfast",
+      "img": "https://s7d1.scene7.com/is/image/mcdonalds/s-mcdonalds-Big-Breakfast-Regular-Size-Biscuit-1:1-4-product-tile-desktop",
+      "price": " 92",
+      "desc": "A great and large breakfast to have it in the day with awesome cheese fillings,muffin, omlet,hotcake and vegetables",
+      "category": "Non-Veg"
+    },
+    {
+      "id": 21,
+      "name": "Badami Falooda",
+      "desc": "Fresh and cool Falooda with dry fruits.",
+      "img": "https://b.zmtcdn.com/data/dish_photos/f35/77873226a7929f286ab7b67fa2da7f35.jpg?fit=around|130:130&crop=130:130;*,*",
+      "price": "99"
+    },
+    {
+      "id": 22,
+      "name": "Sweet Matka Lassi",
+      "desc": "Sweet Lassi",
+      "img": "https://b.zmtcdn.com/data/dish_photos/132/f3bdf92deec7b3b1907e44a63e852132.jpg?fit=around|130:130&crop=130:130;*,*",
+      "price": "60"
+    },
+    {
+      "id": 23,
+      "name": "Dry Fruit Lassi",
+      "desc": "Lassi with added dry fruits.",
+      "img": "https://b.zmtcdn.com/data/dish_photos/3b6/8430f6d8636e4d05c32acac577f743b6.jpg?fit=around|130:130&crop=130:130;*,*",
+      "price": "65"
+    },
+    {
+      "id": 24,
+      "name": "Fruit Salad with Ice Cream",
+      "desc": "Fruit Salad rich with fruits and ice cream scoop.",
+      "img": "https://b.zmtcdn.com/data/dish_photos/92e/a08756521511c537901268ca5358c92e.jpg?fit=around|130:130&crop=130:130;*,*",
+      "price": "95"
+    },
+    {
+      "id": 25,
+      "name": "ButterScotch Milkshake",
+      "desc": "Healthy Milkshake made with butterscotch",
+      "img": "https://b.zmtcdn.com/data/dish_photos/755/768b64edf69ff847294a14c0ec3bd755.jpg?fit=around|130:130&crop=130:130;*,*",
+      "price": "55"
+    },
+    {
+      "id": 26,
+      "name": "Oreo Milkshake with Ice cream",
+      "desc": "Oreo Milkshake with vannilla ice cream.",
+      "img": "https://b.zmtcdn.com/data/dish_photos/cac/8e08fa9e168eb1afdd8dbef00d827cac.jpg?fit=around|130:130&crop=130:130;*,*",
+      "price": "105"
+    },
+    {
+      "id": 27,
+      "name": "Hot Chocolate Fudge Sundae",
+      "desc": "Vannilla ice cream topped with chocolate sauce and peanuts.",
+      "img": "https://b.zmtcdn.com/data/dish_photos/ab3/ebb8cb388ddbd681290616c7303edab3.jpg?fit=around|130:130&crop=130:130;*,*",
+      "price": "65"
+    },
+    {
+      "id": 28,
+      "name": "Death Chocolate Pastry",
+      "desc": "Pastry rich in chocolate.",
+      "img": "https://b.zmtcdn.com/data/dish_photos/22e/2c0aa4d27f78e10d97ee2757588de22e.jpg?fit=around|130:130&crop=130:130;*,*",
+      "price": "85"
+    },
+    {
+      "id": 29,
+      "name": "Irish Coffee Pastry",
+      "desc": "Pastry rich in nternational Irish Flavour rich in coffee.",
+      "img": "https://b.zmtcdn.com/data/dish_photos/f7f/bbaa589a8e617798cbf9add081b52f7f.jpg?fit=around|130:130&crop=130:130;*,*",
+      "price": "105"
+    },
+    {
+      "id": 30,
+      "name": "Chocolate KitKat Gems Cake",
+      "desc": "Cake filled with Chocolate and Cadbury Gems.",
+      "img": "https://b.zmtcdn.com/data/dish_photos/f93/a24a8baea910e780e5e3a08d17f8af93.jpg?fit=around|130:130&crop=130:130;*,*",
+      "price": "600"
+    },
+    {
+      "id": 31,
+      "name": "Black Forest Classic Cake",
+      "desc": "Classic Black Forest Cake.",
+      "img": "https://b.zmtcdn.com/data/dish_photos/e9b/9fba741bf981a3e60c20871df9b50e9b.jpg?fit=around|130:130&crop=130:130;*,*",
+      "price": "655"
+    },
+    {
+      "id": 32,
+      "name": "Chocolate Pinnata Hammer Cake",
+      "desc": "Modern way of cutting cake with Hammer. Make ur happy moments more funny and joyful.",
+      "img": "https://b.zmtcdn.com/data/dish_photos/29f/44bb76068f3983c1e6edd5f4b58e529f.jpg?fit=around|130:130&crop=130:130;*,*",
+      "price": "860"
+    },
+    {
+      "id": 33,
+      "name": "Choco Chips Truffle Cake",
+      "desc": "Cake rich with chocolate chips.",
+      "img": "https://b.zmtcdn.com/data/dish_photos/ad9/1dc7f9424d62f28ab39141c77ad2fad9.jpg?fit=around|130:130&crop=130:130;*,*",
+      "price": "780"
+    },
+    {
+      "id": 34,
+      "name": "Chocolate Truffle Cake",
+      "desc": "Chocolate Cake rich with chocolate and coffee.",
+      "img": "https://b.zmtcdn.com/data/dish_photos/179/7978536baac277417f503d721a130179.jpg?fit=around|130:130&crop=130:130;*,*",
+      "price": "744"
+    },
+    {
+      "id": 35,
+      "name": "PineApple Cake",
+      "desc": "PineApple Cake with loaded cream.",
+      "img": "https://b.zmtcdn.com/data/dish_photos/e17/fad0d4496ee0080a292a5bdf86c2ee17.jpg?fit=around|130:130&crop=130:130;*,*",
+      "price": "500"
+    },
+    {
+      "id": 36,
+      "name": "Red Velvet Cake",
+      "desc": "Cake rich with red velvet.",
+      "img": "https://b.zmtcdn.com/data/dish_photos/cb8/00da6f185902e31f632820a06a4e1cb8.jpg?fit=around|130:130&crop=130:130;*,*",
+      "price": "580"
+    },
+    {
+      "id": 37,
+      "name": "Kaju Katli",
+      "desc": "The cashew fudge adds all the dhamaka to every occassin. This lip-smacking sweet is ripe with the goodness of premium cashews in plenty, a decadent ode to everyone's favourite made with plenty in our kitchens.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTii4kC52wIItuk6AukMSJ8TNGJn_GfWObaog&usqp=CAU",
+      "price": "95"
+    },
+    {
+      "id": 38,
+      "name": "Mysore Pak",
+      "desc": "The pride of Karnataka, these melt in your mouth, soft Mysorepaks celebrate joys in every lavish bite as generous flavors of desi ghee, sugar, gram flour, and hints of cardamom tease your palate.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROlv5l3GPdvVrMaRRl9HsYuARurI8NTyEyCQ&usqp=CAU",
+      "price": "105"
+    },
+    {
+      "id": 39,
+      "name": "Banana Chips",
+      "desc": "Kerala Snacks will make you feel mesmerized.",
+      "img": "https://b.zmtcdn.com/data/dish_photos/22e/2c0aa4d27f78e10d97ee2757588de22e.jpg?fit=around|130:130&crop=130:130;*,*",
+      "price": "85"
+    },
+    {
+      "id": 40,
+      "name": "Soan Papdi",
+      "desc": "This melt-in-the-mouth Son Papdi delights with its firm yet flaky and layered texture that instantly dissolves into flavours of joy.",
+      "img": "https://b.zmtcdn.com/data/dish_photos/d67/78785b5268b0eb7db6670d99ff91fd67.png?fit=around|130:130&crop=130:130;*,*",
+      "price": "105"
+    },
+    {
+      "id": 41,
+      "name": "MARGHERITA",
+      "desc": "A hugely popular margherita, with a deliciously tangy single cheese topping",
+      "price": " 101",
+      "img": "https://www.dominos.co.in/files/items/Margherit.jpg",
+      "category": "Veg"
+    },
+    {
+      "id": 42,
+      "name": "DOUBLE CHEESE MARGHERITA",
+      "desc": "The ever-popular Margherita - loaded with extra cheese... oodies of it!",
+      "price": " 121",
+      "img": "https://www.dominos.co.in/files/items/Double_Cheese_Margherita.jpg",
+      "category": "Veg"
+    },
+    {
+      "id": 43,
+      "name": "FARM HOUSE",
+      "desc": "A pizza that goes ballistic on veggies! Check out this mouth watering overload of crunchy, crisp capsicum, succulent mushrooms and fresh tomatoes",
+      "price": " 111",
+      "img": "https://www.dominos.co.in/files/items/Farmhouse.jpg",
+      "category": "Veg"
+    },
+    {
+      "id": 44,
+      "name": "PEPPY PANEER",
+      "desc": "Chunky paneer with crisp capsicum and spicy red pepper - quite a mouthful!",
+      "price": " 101",
+      "img": "https://www.dominos.co.in/files/items/Peppy_Paneer.jpg",
+      "category": "Veg"
+    },
+    {
+      "id": 45,
+      "name": "MEXICAN GREEN WAVE",
+      "desc": "A pizza loaded with crunchy onions, crisp capsicum, juicy tomatoes and jalapeno with a liberal sprinkling of exotic Mexican herbs.",
+      "price": " 110",
+      "img": "https://www.dominos.co.in/files/items/Mexican_Green_Wave.jpg",
+      "category": "Veg"
+    },
+    {
+      "id": 46,
+      "name": "DELUXE VEGGIE",
+      "desc": "For a vegetarian looking for a BIG treat that goes easy on the spices, this one's got it all.. The onions, the capsicum, those delectable mushrooms - with paneer and golden corn to top it all.",
+      "price": " 105",
+      "img": "https://www.dominos.co.in/files/items/Deluxe_Veggie.jpg",
+      "category": "Veg"
+    },
+    {
+      "id": 47,
+      "name": "VEG EXTRAVAGANZA",
+      "desc": "A pizza that decidedly staggers under an overload of golden corn, exotic black olives, crunchy onions, crisp capsicum, succulent mushrooms, juicyfresh tomatoes and jalapeno - with extra cheese to go all around.",
+      "price": " 121",
+      "img": "https://www.dominos.co.in/files/items/Veg_Extravaganz.jpg",
+      "category": "Veg"
+    },
+    {
+      "id": 48,
+      "name": "CHEESE N CORN",
+      "desc": "Cheese I Golden Corn | Cheese n Corn Pizza",
+      "price": " 100",
+      "img": "https://www.dominos.co.in/files/items/Corn_&_Cheese.jpg",
+      "category": "Veg"
+    },
+    {
+      "id": 49,
+      "name": "FRESH VEGGIE",
+      "desc": "Onion & Capsicum",
+      "price": " 99",
+      "img": "https://www.dominos.co.in/files/items/Fresh_Veggie.jpg",
+      "category": "Veg"
+    },
+    {
+      "id": 50,
+      "name": "VEGGIE PARADISE",
+      "desc": "Goldern Corn, Black Olives, Capsicum & Red Paprika",
+      "price": " 111",
+      "img": "https://www.dominos.co.in/files/items/Digital_Veggie_Paradise_olo_266x265.jpg",
+      "category": "Veg"
+    },
+    {
+      "id": 51,
+      "name": "PANEER MAKHANI",
+      "desc": "Paneer and Capsicum on Makhani Sauce",
+      "price": " 101",
+      "img": "https://www.dominos.co.in/files/items/Paneer_Makhni.jpg",
+      "category": "Veg"
+    },
+    {
+      "id": 52,
+      "name": "INDI TANDOORI PANEER",
+      "desc": "It is hot. It is spicy. It is oh-so-Indian. Tandoori paneer with capsicum I red paprika I mint mayo",
+      "price": " 121",
+      "img": "https://www.dominos.co.in/files/items/IndianTandooriPaneer.jpg",
+      "category": "Veg"
+    },
+    {
+      "id": 53,
+      "name": "CHICKEN GOLDEN DELIGHT",
+      "desc": "Mmm! Barbeque chicken with a topping of golden corn loaded with extra cheese. Worth its weight in gold!",
+      "price": " 171",
+      "img": "https://www.dominos.co.in/files/items/MicrosoftTeams-image_(14).png",
+      "category": "Non-Veg"
+    },
+    {
+      "id": 54,
+      "name": "NON VEG SUPREME",
+      "desc": "Bite into supreme delight of Black Olives, Onions, Grilled Mushrooms, Pepper BBQ Chicken, Peri-Peri Chicken, Grilled Chicken Rashers",
+      "price": " 181",
+      "img": "https://www.dominos.co.in/files/items/MicrosoftTeams-image_(13).png",
+      "category": "Non-Veg"
+    },
+    {
+      "id": 55,
+      "name": "CHICKEN DOMINATOR",
+      "desc": "Treat your taste buds with Double Pepper Barbecue Chicken, Peri-Peri Chicken, Chicken Tikka & Grilled Chicken Rashers",
+      "price": " 161",
+      "img": "https://www.dominos.co.in/files/items/MicrosoftTeams-image_(11).png",
+      "category": "Non-Veg"
+    },
+    {
+      "id": 56,
+      "name": "PEPPER BARBEQUE & ONION",
+      "desc": "Pepper Barbecue Chicken I Onion",
+      "price": " 199",
+      "img": "https://www.dominos.co.in/files/items/Pepper_Barbeque_&_Onion.jpg",
+      "category": "Non-Veg"
+    },
+    {
+      "id": 57,
+      "name": "PEPPER BARBEQUE CHICKEN",
+      "desc": "Pepper Barbecue Chicken I Cheese",
+      "price": " 195",
+      "img": "https://www.dominos.co.in/files/items/MicrosoftTeams-image_(15).png",
+      "category": "Non-Veg"
+    },
+    {
+      "id": 58,
+      "name": "CHICKEN SAUSAGE",
+      "desc": "Chicken Sausage & Cheese",
+      "price": " 141",
+      "img": "https://www.dominos.co.in/files/items/MicrosoftTeams-image_(17).png",
+      "category": "Non-Veg"
+    },
+    {
+      "id": 59,
+      "name": "CHICKEN FIESTA",
+      "desc": "Grilled Chicken Rashers I Peri-Peri Chicken I Onion I Capsicum",
+      "price": " 155",
+      "img": "https://www.dominos.co.in/files/items/MicrosoftTeams-image_(10).png",
+      "category": "Non-Veg"
+    },
+    {
+      "id": 60,
+      "name": "INDI CHICKEN TIKKA",
+      "desc": "The wholesome flavour of tandoori masala with Chicken tikka I onion I red paprika I mint mayo",
+      "price": " 185",
+      "img": "https://www.dominos.co.in/files/items/MicrosoftTeams-image_(18).png",
+      "category": "Non-Veg"
+    },
+    {
+      "id": 61,
+      "name": "Penne",
+      "desc": "Cut into cylindrical tubes with slanting edges, this pasta comes with a ridged texture. The ridges not only add to its exotic appearance, but also help the vegetables, meat, and sauces to cling better.",
+      "img": "https://i.gadgets360cdn.com/large/3-1622450341915.jpg",
+      "price": " 95"
+    },
+    {
+      "id": 62,
+      "name": "Farfalle",
+      "desc": "This pasta brings, it is preferred for its versatility- it goes well with light bases (such as olive oil and butter), as well as, rich sauces such as cream, pesto, and tomato..",
+      "img": "https://i.gadgets360cdn.com/large/2-1-1622450383328.jpg",
+      "price": " 99"
+    },
+    {
+      "id": 63,
+      "name": "Macaroni",
+      "desc": "shaped like a twisted hollow tube curled up in the shape of the letter C. It can be presented as a heavily sauced dish, as well as a refreshing salad.",
+      "img": "https://i.gadgets360cdn.com/large/5-1622450412845.jpg",
+      "price": " 89"
+    },
+    {
+      "id": 64,
+      "name": "Spaghetti",
+      "desc": "Spaghetti, the pasta cousin of noodles, is one of the oldest pasta shapes. As per the experts, it is one of the easiest shapes to produce on a mass level.",
+      "img": "https://i.gadgets360cdn.com/large/6-1622450447770.jpg",
+      "price": " 69"
+    },
+    {
+      "id": 65,
+      "name": "Fusilli",
+      "desc": "Fusilli pasta, also known as the corkscrew pasta, is another pasta shape that holds onto the coarse sauces very well. A delicacy from southern Italy, fusilli pasta was traditionally made by wrapping pasta strips, made from semolina flour.",
+      "img": "https://i.gadgets360cdn.com/large/8-1622450478296.jpg",
+      "price": " 100"
+    },
+    {
+      "id": 66,
+      "name": "Lasagne",
+      "desc": "Lasagna pasta is drawn into stacks of thin layered sheets and is enjoyed with alternate fillings of cheese, vegetables, meat, etc.",
+      "img": "https://i.gadgets360cdn.com/large/4-1622450503141.jpg",
+      "price": " 99"
+    },
+    {
+      "id": 67,
+      "name": "Fettuccini",
+      "desc": " Shaped like long entwined ribbons, fettuccine pasta has one of the easiest yet fascinating shapes. It is mostly prepared from durum wheat and has a chewy texture. Although it goes well with a wide range of sauces, fettuccine pasta is mostly served al dente with a creamy, dairy-based sauce, such as the popular Fettuccine Alfredo.",
+      "img": "https://i.gadgets360cdn.com/large/1-1622450534774.jpg",
+      "price": " 109"
+    },
+    {
+      "id": 68,
+      "name": "Capuccino",
+      "img": "https://www.mcdonaldsindia.com/images/products/dessert/Mcafe/new-Cappuccino.png",
+      "price": " 56",
+      "category": "Hot"
+    },
+    {
+      "id": 69,
+      "name": "Latte",
+      "img": "https://www.mcdonaldsindia.com/images/products/dessert/Mcafe/new-Latte.png",
+      "price": "66",
+      "category": "Hot"
+    },
+    {
+      "id": 70,
+      "name": "Mocha",
+      "img": "https://www.mcdonaldsindia.com/images/products/dessert/Mcafe/new-Mocha.png",
+      "price": "69",
+      "category": "Hot"
+    },
+    {
+      "id": 71,
+      "name": "Hot Chocolate",
+      "img": "https://www.mcdonaldsindia.com/images/products/dessert/Mcafe/new-Hot-Choclate.png",
+      "price": "79",
+      "category": "Hot"
+    },
+    {
+      "id": 72,
+      "name": "Chai Latte",
+      "img": "https://www.mcdonaldsindia.com/images/products/dessert/Mcafe/new-Chai-Latte.png",
+      "price": " 74",
+      "category": "Hot"
+    },
+    {
+      "id": 73,
+      "name": "Espresso Machiatto",
+      "img": "https://www.mcdonaldsindia.com/images/products/dessert/Mcafe/new-Espresso-Macchiato.png",
+      "price": " 77",
+      "category": "Hot"
+    },
+    {
+      "id": 74,
+      "name": "Espresso",
+      "img": "https://www.mcdonaldsindia.com/images/products/dessert/Mcafe/new-Espresso.png",
+      "price": " 77",
+      "category": "Hot"
+    },
+    {
+      "id": 75,
+      "name": "Flat White Coffee",
+      "img": "https://www.mcdonaldsindia.com/images/products/dessert/Mcafe/new-Flat-White.png",
+      "price": " 80",
+      "category": "Hot"
+    },
+    {
+      "id": 76,
+      "name": "Premium Double Dark Hot Chocolate",
+      "img": "https://www.mcdonaldsindia.com/images/products/dessert/Mcafe/new-Premium-Double-Dark-Hot-Chocolate.png",
+      "price": " 90",
+      "category": "Hot"
+    },
+    {
+      "id": 77,
+      "name": "Strawberry Green Tea",
+      "img": "https://www.mcdonaldsindia.com/images/products/dessert/Mcafe/new-Strawberry-Green-Tea.png",
+      "price": " 64",
+      "category": "Hot"
+    },
+    {
+      "id": 78,
+      "name": "Ice Coffee",
+      "img": "https://www.mcdonaldsindia.com/images/products/dessert/1-Ice-Coffee.jpg",
+      "price": " 100",
+      "category": "Cold"
+    },
+    {
+      "id": 79,
+      "name": "Ice Tea",
+      "img": "https://www.mcdonaldsindia.com/images/products/dessert/1-Ice-Tea.jpg",
+      "price": " 95",
+      "category": "Cold"
+    },
+    {
+      "id": 80,
+      "name": "Mango Smoothie",
+      "img": "https://www.mcdonaldsindia.com/images/products/dessert/1-Mango-Smoothie.jpg",
+      "price": " 101",
+      "category": "Cold"
+    },
+    {
+      "id": 81,
+      "name": "Mocha Frappe",
+      "img": "https://www.mcdonaldsindia.com/images/products/dessert/1-Mocha-Frappe.jpg",
+      "price": " 110",
+      "category": "Cold"
+    },
+    {
+      "id": 82,
+      "name": "Mixed Berries Smoothie",
+      "img": "https://www.mcdonaldsindia.com/images/products/dessert/1-Mixed-Berries-Smoothie.jpg",
+      "price": " 115",
+      "category": "Cold"
+    },
+    {
+      "id": 83,
+      "name": "Chocolate Frappe",
+      "img": "https://www.mcdonaldsindia.com/images/products/dessert/1-Chocolate-Frappe.jpg",
+      "price": " 114",
+      "category": "Cold"
+    },
+    {
+      "id": 84,
+      "name": "Caramel Frappe",
+      "img": "https://www.mcdonaldsindia.com/images/products/dessert/1-Caramel-Frappe.jpg",
+      "price": " 105",
+      "category": "Cold"
+    },
+    {
+      "id": 85,
+      "name": "Cold Coffee Frappe",
+      "img": "https://www.mcdonaldsindia.com/images/products/dessert/1-Cold-Coffee-Frappe.png",
+      "price": " 120",
+      "category": "Cold"
+    },
+    {
+      "id": 86,
+      "name": "Cold Coffee",
+      "img": "https://www.mcdonaldsindia.com/images/products/dessert/1-Cold-Coffee.png",
+      "price": " 105",
+      "category": "Cold"
+    },
+    {
+      "id": 87,
+      "name": "Green Apple Ice Tea ",
+      "img": "https://www.mcdonaldsindia.com/images/products/dessert/1-Cold-Coffee.png",
+      "price": " 105",
+      "category": "Cold"
+    },
+    {
+      "id": 88,
+      "name": "Coke",
+      "img": "https://images.mcdelivery.co.in/hardcastle-restaurants-pvt-ltd/image/upload/f_auto,q_auto,w_250/v1589466119/Item/16.png",
+      "price": " 60",
+      "category": "Cold"
+    },
+    {
+      "id": 89,
+      "name": "Sprite",
+      "img": "https://images.mcdelivery.co.in/hardcastle-restaurants-pvt-ltd/image/upload/f_auto,q_auto,w_250/v1589467260/Item/30.png",
+      "price": " 65",
+      "category": "Cold"
+    },
+    {
+      "id": 90,
+      "name": "Fanta",
+      "img": "https://images.mcdelivery.co.in/hardcastle-restaurants-pvt-ltd/image/upload/f_auto,q_auto,w_250/v1589466133/Item/21.png",
+      "price": " 67",
+      "category": "Cold"
+    },
+    {
+      "id": 91,
+      "name": "Sweet Lime Cooler",
+      "img": "https://images.mcdelivery.co.in/hardcastle-restaurants-pvt-ltd/image/upload/f_auto,q_auto,w_250/v1657558465/Item/6274O.png",
+      "price": " 70",
+      "category": "Cold"
+    },
+    {
+      "id": 92,
+      "name": "Minion Banana Caramel Shake",
+      "img": "https://images.mcdelivery.co.in/hardcastle-restaurants-pvt-ltd/image/upload/f_auto,q_auto,w_250/v1655275565/Item/6346O.png",
+      "price": " 110",
+      "category": "Cold"
+    },
+    {
+      "id": 93,
+      "name": "Ultimate Match Day Combo",
+      "img": "https://images.mcdelivery.co.in/hardcastle-restaurants-pvt-ltd/image/upload/f_auto,q_auto,w_250/v1639588629/Item/6147.png",
+      "price": " 584"
+    },
+    {
+      "id": 94,
+      "name": "Mc Aloo Tikki Burger+Veg Pizza Mc Puff+Coke",
+      "img": "https://images.mcdelivery.co.in/hardcastle-restaurants-pvt-ltd/image/upload/f_auto,q_auto,w_250/v1648810489/Item/5447O.png",
+      "price": "135 "
+    },
+    {
+      "id": 95,
+      "name": "Pizza Mc Puff+Mc Spicy Chicken Burger",
+      "img": "https://images.mcdelivery.co.in/hardcastle-restaurants-pvt-ltd/image/upload/f_auto,q_auto,w_250/v1554983593/Items/4693.png",
+      "price": "161 "
+    },
+    {
+      "id": 96,
+      "name": "Mc Saver Spicy Chicken Burger Meal",
+      "img": "https://images.mcdelivery.co.in/hardcastle-restaurants-pvt-ltd/image/upload/f_auto,q_auto,w_250/v1589541024/Item/134.png",
+      "price": "250 "
+    },
+    {
+      "id": 97,
+      "name": "Mc Saver Spicy Paneer Burger Meal",
+      "img": "https://images.mcdelivery.co.in/hardcastle-restaurants-pvt-ltd/image/upload/f_auto,q_auto,w_250/v1589466694/Item/209.png",
+      "price": "225 "
+    },
+    {
+      "id": 98,
+      "name": "Mc Aloo Tikki Burger+2 Large Fries",
+      "img": "https://images.mcdelivery.co.in/hardcastle-restaurants-pvt-ltd/image/upload/f_auto,q_auto,w_250/v1648809941/Item/5161D.png",
+      "price": "295 "
+    },
+    {
+      "id": 99,
+      "name": "American Cheese Supreme Chicken Burger+6 Pc Nuggets+Coke",
+      "img": "https://images.mcdelivery.co.in/hardcastle-restaurants-pvt-ltd/image/upload/f_auto,q_auto,w_250/v1657341541/Item/5446O.png",
+      "price": "315 "
+    },
+    {
+      "id": 100,
+      "name": "4 Mc Aloo Tikki Burger+2 Medium Fries+2 Coke",
+      "img": "https://images.mcdelivery.co.in/hardcastle-restaurants-pvt-ltd/image/upload/f_auto,q_auto,w_250/v1648810489/Item/5218O.png",
+      "price": " 433"
+    },
+    {
+      "id": 101,
+      "name": "Classic Burger Meals",
+      "img": "https://images.mcdelivery.co.in/hardcastle-restaurants-pvt-ltd/image/upload/f_auto,q_auto,w_250/v1657341571/Item/62270.png",
+      "price": "455 "
+    },
+    {
+      "id": 102,
+      "name": "Mc Chicken Burger+Mc Veggie Burger+Large Fries+2 Veg Pizza Mc Puff+Coke ",
+      "img": "https://images.mcdelivery.co.in/hardcastle-restaurants-pvt-ltd/image/upload/f_auto,q_auto,w_250/v1589466996/Item/5150.png",
+      "price": " 475"
+    },
+    {
+      "id": 103,
+      "name": "Indulgent Burger Meals",
+      "img": "https://images.mcdelivery.co.in/hardcastle-restaurants-pvt-ltd/image/upload/f_auto,q_auto,w_250/v1657341547/Item/6176O.png",
+      "price": " 600"
+    },
+    {
+      "id": 104,
+      "name": "Fries(Regular)",
+      "img": "https://images.mcdelivery.co.in/hardcastle-restaurants-pvt-ltd/image/upload/f_auto,q_auto,w_250/v1593064898/Item/61.png",
+      "price": " 70"
+    },
+    {
+      "id": 105,
+      "name": "Crinkle Fries(Regular)",
+      "img": "https://images.mcdelivery.co.in/hardcastle-restaurants-pvt-ltd/image/upload/f_auto,q_auto,w_250/v1649852973/Item/6228.png",
+      "price": "80"
+    },
+    {
+      "id": 106,
+      "name": "2 Fries(Regular)",
+      "img": "https://images.mcdelivery.co.in/hardcastle-restaurants-pvt-ltd/image/upload/f_auto,q_auto,w_250/v1612779865/Item/1221.png",
+      "price": "100"
+    },
+    {
+      "id": 107,
+      "name": "Fries(Medium)",
+      "img": "https://images.mcdelivery.co.in/hardcastle-restaurants-pvt-ltd/image/upload/f_auto,q_auto,w_250/v1589541007/Item/60.png",
+      "price": "105"
+    },
+    {
+      "id": 108,
+      "name": "Crinkle Fries(Medium)",
+      "img": "https://images.mcdelivery.co.in/hardcastle-restaurants-pvt-ltd/image/upload/f_auto,q_auto,w_250/v1649852973/Item/6230.png",
+      "price": "105"
+    },
+    {
+      "id": 109,
+      "name": "Crinkle Fries(Large)",
+      "img": "https://images.mcdelivery.co.in/hardcastle-restaurants-pvt-ltd/image/upload/f_auto,q_auto,w_250/v1649852973/Item/6232.png",
+      "price": "120"
+    },
+    {
+      "id": 110,
+      "name": "Fries(Large)",
+      "img": "https://images.mcdelivery.co.in/hardcastle-restaurants-pvt-ltd/image/upload/f_auto,q_auto,w_250/v1589380133/Item/59.png",
+      "price": "120"
+    },
+    {
+      "id": 111,
+      "name": "Mexican Cheesy Fries",
+      "img": "https://images.mcdelivery.co.in/hardcastle-restaurants-pvt-ltd/image/upload/f_auto,q_auto,w_250/v1589466859/Item/3144.png",
+      "price": "135"
+    },
+    {
+      "id": 112,
+      "name": "Waffle Fries",
+      "img": "https://www.crazymasalafood.com/wp-content/images/Waffle-Fries.jpeg",
+      "price": "135"
+    },
+    {
+      "id": 113,
+      "name": "Steak Fries",
+      "img": "https://www.crazymasalafood.com/wp-content/images/Steak-Fries.jpeg",
+      "price": "145"
+    },
+    {
+      "id": 114,
+      "name": "Smile Fries",
+      "img": "https://www.crazymasalafood.com/wp-content/images/Smiley.jpeg",
+      "price": "115"
+    },
+    {
+      "id": 115,
+      "name": "Loaded Fries",
+      "img": "https://www.crazymasalafood.com/wp-content/images/Loaded-Fries.jpeg",
+      "price": "145"
+    },
+    {
+      "id": 116,
+      "name": "Cheese Fries",
+      "img": "https://www.crazymasalafood.com/wp-content/images/Cheese-Fries.jpeg",
+      "price": "125"
+    },
+    {
+      "id": 117,
+      "name": "Side Winding Fries",
+      "img": "https://www.crazymasalafood.com/wp-content/images/Side-Winding-Fries.jpeg",
+      "price": "125"
+    },
+    {
+      "id": 118,
+      "name": "Home Fries",
+      "img": "https://www.crazymasalafood.com/wp-content/images/Home-Fries.jpeg",
+      "price": "135"
+    },
+    {
+      "id": 119,
+      "name": "Cottage Fries",
+      "img": "https://www.crazymasalafood.com/wp-content/images/Cottage-Fries.jpeg",
+      "price": "115"
+    }
+  ]
+}

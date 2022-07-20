@@ -1,0 +1,53 @@
+{
+  "user": [
+    {
+      "name": "akash",
+      "username": "akashsingh",
+      "email": "akash@gmail.com",
+      "phone": "98786756564",
+      "id": 1,
+      "avatar": "https://media.istockphoto.com/photos/portrait-of-happy-young-man-picture-id958064228?b=1&k=20&m=958064228&s=170667a&w=0&h=2a2RyunJKxhHT0pt2REgkg8X5vlApTN0-Xz91RDDaEU=",
+      "password": "akash526",
+      "branch": "Banashankari"
+    },
+    {
+      "name": "suraj",
+      "username": "suraj123",
+      "email": "suraj@gmail.com",
+      "phone": "9956976967",
+      "id": 2,
+      "avatar": "https://media.istockphoto.com/photos/indian-man-picture-id178583962?b=1&k=20&m=178583962&s=170667a&w=0&h=ZUiomMpy5caqbFsQEGKEzmNHCKYFNt4l0PzQzv0xJd4=",
+      "password": "suraj859",
+      "branch": "Attibele"
+    },
+    {
+      "name": "rakesh",
+      "username": "rakesh",
+      "email": "rakesh@gmail.com",
+      "phone": "9579579575",
+      "id": 3,
+      "avatar": "https://media.istockphoto.com/photos/middle-aged-man-with-pleasant-face-expression-picture-id1005817658?b=1&k=20&m=1005817658&s=170667a&w=0&h=tpil3FJm2k6CHWiVczRjC-dBR8kP1ZckPMVETYX-89g=",
+      "password": "rakesh456",
+      "branch": "Whitefield"
+    },
+    {
+      "name": "vikas",
+      "username": "vikas123",
+      "email": "vikas@gmail.com",
+      "phone": "444444444444",
+      "id": 4,
+      "avatar": "https://media.istockphoto.com/photos/portrait-of-a-smiling-man-of-indian-ethnicity-picture-id1277971635?b=1&k=20&m=1277971635&s=170667a&w=0&h=L1pgfiauaN2wIOgxdetel63XLq2ax3EkbfaIUT67USc=",
+      "password": "vikas456",
+      "branch": "Attibele"
+    },
+    {
+      "name": "vijay",
+      "username": "vijay shiva",
+      "email": "vijay455@vijay.com",
+      "phone": "456879521263",
+      "password": "kbiuwlwu",
+      "branch": "banshankari",
+      "id": 5
+    }
+  ]
+}
